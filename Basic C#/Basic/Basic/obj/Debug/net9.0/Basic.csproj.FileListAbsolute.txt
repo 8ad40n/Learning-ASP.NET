@@ -1,0 +1,14 @@
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\bin\Debug\net9.0\Basic.exe
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\bin\Debug\net9.0\Basic.deps.json
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\bin\Debug\net9.0\Basic.runtimeconfig.json
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\bin\Debug\net9.0\Basic.dll
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\bin\Debug\net9.0\Basic.pdb
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\obj\Debug\net9.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\obj\Debug\net9.0\Basic.AssemblyInfoInputs.cache
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\obj\Debug\net9.0\Basic.AssemblyInfo.cs
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\obj\Debug\net9.0\Basic.csproj.CoreCompileInputs.cache
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\obj\Debug\net9.0\Basic.dll
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\obj\Debug\net9.0\refint\Basic.dll
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\obj\Debug\net9.0\Basic.pdb
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\obj\Debug\net9.0\Basic.genruntimeconfig.cache
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\obj\Debug\net9.0\ref\Basic.dll
