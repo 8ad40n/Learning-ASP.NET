@@ -12,3 +12,4 @@ D:\DEV\ASP.NET\Basic C#\Basic\Basic\obj\Debug\net9.0\refint\Basic.dll
 D:\DEV\ASP.NET\Basic C#\Basic\Basic\obj\Debug\net9.0\Basic.pdb
 D:\DEV\ASP.NET\Basic C#\Basic\Basic\obj\Debug\net9.0\Basic.genruntimeconfig.cache
 D:\DEV\ASP.NET\Basic C#\Basic\Basic\obj\Debug\net9.0\ref\Basic.dll
+D:\DEV\ASP.NET\Basic C#\Basic\Basic\obj\Debug\net9.0\Basic.sourcelink.json
