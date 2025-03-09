@@ -1,0 +1,37 @@
+﻿@*view engine:
+
+RAZOR:
+Razor = c# converts -> html
+
+@ -> single line c#
+
+@{ 
+    -> for razor block (Regular C#)
+ }
+
+@ for()
+{
+}
+
+@ if ()
+{
+}*@
+
+ 
+
+@{
+    ViewBag.Title = "MyPage";
+}
+
+@*if i donot want to add any shared layout for this specific route*@
+@{
+    Layout = null;
+}
+
+
+<div>
+    <h2>MyPage</h2>
+    <p>@ViewBag.name</p>
+    <p>@ViewData["id"]</p>
+</div>
+
