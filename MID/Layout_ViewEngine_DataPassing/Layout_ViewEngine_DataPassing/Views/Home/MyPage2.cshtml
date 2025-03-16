@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "MyPage2";
+}
+
+<h2>MyPage2</h2>
+
+@*Model Binding data passing to action:*@
+@*Form collection object data passing to action:*@
+@*Variable name mapping data pass from view to action:*@
+<h3>@ViewBag.u</h3>
+<h3>@ViewBag.e</h3>
+
+<form method="post" action="">
+    <input type="text" name="username" placeholder="Enter your name" />
+    <input type="email" name="email" placeholder="Enter your email" />
+    <button type="submit">Submit</button>
+</form>
+
+

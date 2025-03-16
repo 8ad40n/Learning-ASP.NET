@@ -1,4 +1,5 @@
-﻿@*view engine:
+﻿
+@*view engine:
 
 RAZOR:
 Razor = c# converts -> html
@@ -33,5 +34,24 @@ Razor = c# converts -> html
     <h2>MyPage</h2>
     <p>@ViewBag.name</p>
     <p>@ViewData["id"]</p>
+
+    <table class="table table-bordered">
+        <tr>
+            <td>Name</td>
+            <td>Id</td>
+            <td>University</td>
+        </tr>
+        @foreach (var item in Model)
+        {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Id</td>
+                    <td>@item.university</td>
+                </tr>
+
+        }
+
+    </table>
+
 </div>
 
