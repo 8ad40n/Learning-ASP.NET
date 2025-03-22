@@ -25,5 +25,12 @@ namespace FormValidation.Models
         [RegularExpression(@"^\d{2}-\d{5}-[1-3]@student\.aiub\.edu$", ErrorMessage = "Email must be in the format XX-XXXXX-X@student.aiub.edu.")]
         [MatchIdEmail]
         public string email { get; set; }
+
+        [Required]
+        public string Gender { get; set; }
+        [Required]
+        public string Profession { get; set; }
+        [Required]
+        public string[] Hobbies { get; set; }
     }
 }
